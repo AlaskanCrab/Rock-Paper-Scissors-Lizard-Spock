@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors-Lizard-Spock Game Demo; 
 
+Vue.js3 , pinia, vue-router
 https://r-p-s-l-s-game.netlify.app/
  
 ![desktop-step-1-bonus](https://github.com/AlaskanCrab/Rock-Paper-Scissors-Lizard-Spock/assets/104378401/cfafd68f-f7f7-42e7-9ffb-59dfebc1b4b5)
